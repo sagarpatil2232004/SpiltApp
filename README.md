@@ -1,5 +1,5 @@
 
-Check Out this Appp - https://spiltapp.onrender.com
+Check Out this App - https://spiltapp.onrender.com
 
 ## MERN Stack Group Expense Splitting Application
 
